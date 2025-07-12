@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\project_c\\project_d\\source\\project_d\\variant_platforming\\platforminggamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\project_c\\project_d\\intermediate\\build\\win64\\x64\\project_deditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\project_c\\project_d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project_d\\definitions.project_d.h",
+            "c:\\github\\project_c\\project_d\\source\\project_d\\variant_platforming\\platforminggamemode.h",
+            "d:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\github\\project_c\\project_d\\intermediate\\build\\win64\\unrealeditor\\inc\\project_d\\uht\\platforminggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
