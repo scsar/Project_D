@@ -73,6 +73,8 @@ void ARailSplineActor::UpdateRailMeshes()
         MeshComp->RegisterComponent();
 
         MeshComp->SetStartAndEnd(StartPos, StartTangent, EndPos, EndTangent);
-        MeshComp->SetForwardAxis(ESplineMeshAxis::X);
+        MeshComp->SetForwardAxis(ESplineMeshAxis::Y);
+
+        MeshComp->SetRelativeRotation(FRotator(0.f, 0.f, -90.f)); // 또는 -90, 180 등 실험
     }
 }
